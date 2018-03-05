@@ -1,8 +1,6 @@
 ---
 title: Fantasy Crescendo v0.3.0-alpha
 ---
-# v0.3.0-alpha
-
 ## General Patch Notes
 
 ### New Additions:
